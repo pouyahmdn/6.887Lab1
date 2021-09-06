@@ -20,7 +20,7 @@ We recommend using [Anaconda](https://docs.anaconda.com/anaconda/install/index.h
 
 Create a new environment:
 ```
-conda env create --name lab1_mlforsys python=3.7
+conda create --name lab1_mlforsys python=3.7
 ```
 Activate the environment
 ```
