@@ -1,7 +1,7 @@
 # 6.887 Machine Learning for Systems
 ## Lab 1: Introduction to Bayesian Optimization
 
-###### Due: TBA
+###### Due: Monday, Sep 27 at 12:00 PM
 
 ### Instructions:
 
@@ -44,4 +44,4 @@ jupyter notebook
 ```
 
 ### Step 4
-Once completed, upload your notebook (TBA).
+Once completed, upload your notebook through Canvas.
