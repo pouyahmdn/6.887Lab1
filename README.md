@@ -34,7 +34,7 @@ conda install scipy numpy matplotlib pandas scikit-learn jupyter ipykernel nb_co
 
 Make sure you have python (>=3.5) installed on your system. Now install the required packages:
 ```
-python3 -m pip install scipy numpy matplotlib pandas scikit-learn jupyter ipykernel nb_conda_kernels grpcio-tools
+python3 -m pip install scipy numpy matplotlib pandas scikit-learn jupyter ipykernel grpcio-tools
 ```
 
 ### Step 3
